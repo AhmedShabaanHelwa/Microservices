@@ -1,4 +1,4 @@
-package com.helwa.microservices.productservice;
+package com.helwa.microservices.product;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
